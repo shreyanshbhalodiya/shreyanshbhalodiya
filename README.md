@@ -39,6 +39,14 @@ TensorFlow | PyTorch | NLP - Text Classification, Semantic Analysis, Sentiment A
 
 Some of the projects where I gained most of my learnings and hands-on experience are:  
 
+### 🎓 Power BI Data Analytics & Data Visualization  
+**[ASCEND Program Data Analysis & Dashboard (Mar 2024 – Jul 2024)](https://github.com/shreyanshbhalodiya/ASCEND-Program-Data-Analysis-and-Dashboard-Development--POWER-BI)**  
+- Developed **Power BI dashboards** integrated with Python scripts for real-time updates.  
+- Designed **45+ interactive visualizations** across 10 pages with advanced navigation.  
+- Conducted EDA, NLP (nltk, PorterStemmer), and automated processing in Python.  
+- Delivered findings via reports & executive presentations to guide program improvements.  
+
+
 ### 📊 Banking & Financial Analytics  
 **Contactless Recovery – ICICI Bank (Aug 2021 – Feb 2022)**  
 - Predicted repayment timelines for defaulted loans, optimizing recovery channels and reducing campaign costs.  
@@ -63,17 +71,7 @@ Some of the projects where I gained most of my learnings and hands-on experience
 - Identified bugs, validated thresholds, and improved robustness.  
 - Developed **Auto Tuner** to automate optimization, improving system efficiency.  
 
----
 
-### 🎓 Capstone / Academic  
-**ASCEND Program Data Analysis & Dashboard (Mar 2024 – Jul 2024)**  
-- Northeastern University Capstone Project.  
-- Developed **Power BI dashboards** integrated with Python scripts for real-time updates.  
-- Designed **45+ interactive visualizations** across 10 pages with advanced navigation.  
-- Conducted EDA, NLP (nltk, PorterStemmer), and automated processing in Python.  
-- Delivered findings via reports & executive presentations to guide program improvements.  
-
----
 
 ## 🌐 Socials
 
