@@ -8,6 +8,8 @@ Data Analytics professional with experience across banking, financial services, 
 🎯 Goals: To grow into a senior Data/Analytics Engineer  
 ✉️ You can contact me at: shreyanshbhalodia17@gmail.com  
 🎲 Fun fact 1: I enjoy exploring new technologies and mentoring peers in analytics. 
+
+
 🎲 Fun fact 2: I’m really good at goalkeeping in soccer.
              
 
